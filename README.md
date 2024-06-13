@@ -3,7 +3,7 @@
 Welcome to the Eats.com backend repository! This project provides the API and server-side functionalities for the Eats.com application, built with Node.js, Express, and MongoDB.
 
 ## Live Demo
-Check out the live site: 
+Check out the live site: https://eats-com-backend.onrender.com
 
 ## Features
 - **Node.js** with **Express** for scalable server-side logic
