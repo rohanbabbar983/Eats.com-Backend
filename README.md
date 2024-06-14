@@ -48,6 +48,11 @@ Check out the live site: https://eats-com-backend.onrender.com
 
 The backend server will run on `http://localhost:7000`.
 
+## API Endpoints
+
+- **health:** `/health`
+
+
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
